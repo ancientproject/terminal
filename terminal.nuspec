@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-    <metadata>
-		<id>terminal</id>
-		<version>0.24</version>
-		<authors>Yuuki Wesp</authors>
-		<description>Default terminal device for AncientVM</description>
-    </metadata>
-</package>
