@@ -1,6 +1,6 @@
 {
-  "type": "source",
-  "files": {
-    "TerminalDevice.cs"
-  }
+	"type": "source",
+	"files": [
+		"TerminalDevice.cs"
+	]
 }
