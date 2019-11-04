@@ -14,6 +14,10 @@ public class TerminalDevice : Device
     {
         switch (address)
         {
+           case 0x4:
+                var c0 = (char)data;
+                WriteLine(c0);
+                break;
             case 0x5:
                 var c1 = (char)data;
                 if(c1 == 0xA)
